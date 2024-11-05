@@ -70,51 +70,51 @@
 	* Define labels for forest plot components 
 	* trial (1,2,3...) to "Author (year)" 
 
-		label define trial_lb 	1"Chambers {it:et al.}" 			  ///
-								2"Kulin {it:et al.}"		 		                ///
-								3"Einarson {it:et al.}" 			              ///
-								4"Einarson {it:et al.}" 			              ///
-								5"Sivojelezova {it:et al.}" 		            ///
-								6"Chun-Fai-Chan {it:et al.}" 		            ///
-								7"Djulus {it:et al.}" 				              ///
-								8"*Einarson {it:et al.}" 			              ///
-								9"*Nakhai-Pour {it:et al.}" 		            ///
-								10"Paulus {it:et al.}" 				              ///
-								11"*Chan {it:et al.}" 				              ///
-								12"*Einarson {it:et al.}" 			            ///
-								13"*Ban {it:et al.}" 				                ///
-								14"Klieger-Grossman {it:et al.}" 	          ///
-								15"*Kjaesgaard {it:et al.}" 		            ///
-								16"*Andersen {it:et al.}" 			            ///
-								17"*Abadie {it:et al.}" 			              ///
-								18"*Johansen {it:et al.}"			              ///
-								19"Te Winkel {it:et al.}" 			            ///
-								20"*Almeida {it:et al.}" 			              ///
-								21"*Evans-Hoeker {it:et al.}" 		          ///
-								22"*Richardson {it:et al.}" 		            ///
-								23"*Wu {it:et al.}" 				                ///
-								24"*Bahat {it:et al.}" 				              ///
-								25"Kolding {it:et al.}" 			              ///
-								26"*Ankarfeldt {it:et al.}"			            ///
-								27"*Kitchin {it:et al.}"			              ///
-								28"*Ostenfeld {it:et al.}"			            ///
-								29"*Giner-Soriano {it:et al.}"		          ///
-								30"Chambers {it:et al.}" 			              ///
-								31"Kulin {it:et al.}" 				              ///
-								32"Einarson {it:et al.}"		    	          ///
-								33"Sivojelezova {it:et al.}" 	            	///
-								34"Paulus {it:et al.}" 				              ///
-								35"*Ban {it:et al.}" 				                ///
-								36"Klieger-Grossman {it:et al.}" 	          ///
-								37"*Andersen {it:et al.}" 			            ///
-								38"*Johansen {it:et al.}" 			            ///
-								39"*Evans-Hoeker {it:et al.}" 		          ///
-								40"*Wu {it:et al.}" 				                ///
-								41"*Kitchin {it:et al.}"			              ///
-								42"Einarson {it:et al.}" 			              ///
-								43"Te Winkel {it:et al.}" 			            ///
-								44"*Richardson {it:et al.}" 		            ///
-								45"Bahat {it:et al.}"				                ///
+		label define trial_lb 				1"Chambers {it:et al.}" ///
+								2"Kulin {it:et al.}" ///
+								3"Einarson {it:et al.}" ///
+								4"Einarson {it:et al.}" ///
+								5"Sivojelezova {it:et al.}" ///
+								6"Chun-Fai-Chan {it:et al.}" ///
+								7"Djulus {it:et al.}" ///
+								8"*Einarson {it:et al.}" ///
+								9"*Nakhai-Pour {it:et al.}" ///
+								10"Paulus {it:et al.}" ///
+								11"*Chan {it:et al.}" ///
+								12"*Einarson {it:et al.}" ///
+								13"*Ban {it:et al.}" ///
+								14"Klieger-Grossman {it:et al.}" ///
+								15"*Kjaesgaard {it:et al.}" ///
+								16"*Andersen {it:et al.}" ///
+								17"*Abadie {it:et al.}" ///
+								18"*Johansen {it:et al.}" ///
+								19"Te Winkel {it:et al.}" ///
+								20"*Almeida {it:et al.}" ///
+								21"*Evans-Hoeker {it:et al.}" ///
+								22"*Richardson {it:et al.}" ///
+								23"*Wu {it:et al.}" ///
+								24"*Bahat {it:et al.}" ///
+								25"Kolding {it:et al.}" ///
+								26"*Ankarfeldt {it:et al.}" ///
+								27"*Kitchin {it:et al.}" ///
+								28"*Ostenfeld {it:et al.}" ///
+								29"*Giner-Soriano {it:et al.}" ///
+								30"Chambers {it:et al.}" ///
+								31"Kulin {it:et al.}" ///
+								32"Einarson {it:et al.}" ///
+								33"Sivojelezova {it:et al.}" ///
+								34"Paulus {it:et al.}" ///
+								35"*Ban {it:et al.}" ///
+								36"Klieger-Grossman {it:et al.}" ///
+								37"*Andersen {it:et al.}" ///
+								38"*Johansen {it:et al.}" ///
+								39"*Evans-Hoeker {it:et al.}" ///
+								40"*Wu {it:et al.}" ///
+								41"*Kitchin {it:et al.}" ///
+								42"Einarson {it:et al.}" ///
+								43"Te Winkel {it:et al.}" ///
+								44"*Richardson {it:et al.}" ///
+								45"Bahat {it:et al.}" ///
 								46"*Ankarfeldt {it:et al.}"
 
 		label values trial trial_lb
@@ -122,7 +122,7 @@
 	* adtype (1,2,3) to groups on the forest plot "AD vs none" etc.
 
 		label define adtype_lb 	1"Any antidepressants vs none"  ///
-								2"SSRIs vs none" 				///
+								2"SSRIs vs none" ///
 								3"SNRIs vs none"  
 		
 		label values adtype adtype_lb
