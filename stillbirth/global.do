@@ -11,9 +11,9 @@
 
 clear 
 
-global Projectdir "/Users/ti19522/OneDrive - University of Bristol/MASTER/Flo's resources/Stata resources/Analysis"
+global Projectdir "/location/of/project/files"
 
-global Dodir 		"/Users/ti19522/Documents/SR/dofiles"
+global Dodir 		"/location/of/dofiles"
 global Logdir 		"$Projectdir/logfiles"
 global Graphdir 	"$Projectdir/graphfiles"
 
