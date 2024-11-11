@@ -11,7 +11,7 @@
 
 * Start logging
 
-	log using "$Logdir/log_figures.txt", text replace
+	log using "$Logdir\1_figures", name(figures) replace
 	
 ****************************************************************************************************************************
 
@@ -251,7 +251,10 @@
 
 * Stop logging
 
-	log close
+	log close figures
+	
+	translate "$Logdir\1_figures.smcl" "$Logdir\1_figures.pdf", replace
+	
+	erase "$Logdir\1_figures.smcl"
 	
 ****************************************************************************************************************************
-
