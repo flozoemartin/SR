@@ -11,9 +11,11 @@
 
 * Start logging
 
-	log using "$Logdir/log_supp_figures.txt", text replace
+	log using "$Logdir\2_supplementary", name(supplementary) replace
 	
 ****************************************************************************************************************************
+
+	cd "$Graphdir"
 
 * Supplementary Figure 1 - removing all critical studies
 
@@ -357,6 +359,10 @@
 
 * Stop logging
 
-	log close
+	log close supplementary
+	
+	translate "$Logdir\2_supplementary.smcl" "$Logdir\2_supplementary.pdf", replace
+	
+	erase "$Logdir\2_supplementary.smcl"
 	
 ****************************************************************************************************************************
