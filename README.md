@@ -1,7 +1,8 @@
 The scripts used for the below systematic reviews and meta-analyses are held in this repository.
 
 # Antidepressant use during pregnancy and miscarriage: a systematic review and meta-analysis
-## Smith S, Martin FZ, Rai D, Forbes H. Association between antidepressant use during pregnancy and miscarriage: a systematic review and meta-analysisBMJ Open 2024;14:e074600. doi: 10.1136/bmjopen-2023-074600
+
+> Smith S, Martin FZ, Rai D, Forbes H. Association between antidepressant use during pregnancy and miscarriage: a systematic review and meta-analysisBMJ Open 2024;14:e074600. doi: 10.1136/bmjopen-2023-074600
 
 **Background** Literature surrounding the association between antidepressant use during pregnancy and miscarriage is conflicting. We aimed to conduct a systematic review and meta-analysis of studies among pregnant women regarding the association between exposure to antidepressants during pregnancy and the risk of miscarriage, compared with pregnant women not exposed to antidepressants.
 
@@ -17,8 +18,11 @@ The scripts used for the below systematic reviews and meta-analyses are held in 
 
 **Conclusions** After accounting for maternal depression, there is little evidence of any association between antidepressant use during pregnancy and miscarriage. Instead, the results indicate the biasing impact of confounding by indication.
 
+https://bmjopen.bmj.com/content/14/1/e074600
+
 # Antidepressant use during pregnancy and stillbirth: a systematic review and meta-analysis
-## Martin FZ, Smith S, Rai D, Forbes H. Antidepressant use during pregnancy and risk of stillbirth: a systematic review and meta-analysis. Reproductive, Female and Child Health. 2023; 2: 177-187. doi:10.1002/rfc2.38
+
+> Martin FZ, Smith S, Rai D, Forbes H. Antidepressant use during pregnancy and risk of stillbirth: a systematic review and meta-analysis. Reproductive, Female and Child Health. 2023; 2: 177-187. doi:10.1002/rfc2.38
 
 **Introduction** To evaluate the current evidence estimating the association between antidepressant use during pregnancy and stillbirth.
 
@@ -31,3 +35,5 @@ The scripts used for the below systematic reviews and meta-analyses are held in 
 **Main Results** Seventeen studies were eligible. Although estimates from meta-analysis models suggest a small increased risk of stillbirth, summary effect estimate 1.19 (95% confidence interval [CI] 1.06, 1.34) between those individuals taking antidepressants during pregnancy and all other pregnant women, confounding control is likely inadequate. The risk of bias assessment showed most studies were low quality, with no studies scoring low risk; in a meta-analysis of studies with moderate risk of bias (n = 2), no association was noted, summary effect estimate 1.17 (95% CI 0.97, 1.41). Only six studies adjusted for confounding by indication, the findings of which were summarised narratively.
 
 **Conclusions** Although the overall meta-analysis found a small association between antidepressant use during pregnancy and stillbirth, this result was likely due to the overall low quality of studies included and by confounding in the underlying studies. Future studies must adequately address potential confounding by indication.
+
+https://onlinelibrary.wiley.com/doi/10.1002/rfc2.38
