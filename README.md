@@ -2,7 +2,7 @@ The scripts used for the below systematic reviews and meta-analyses are held in 
 
 # Antidepressant use during pregnancy and miscarriage: a systematic review and meta-analysis
 
-> Smith S, Martin FZ, Rai D, Forbes H. Association between antidepressant use during pregnancy and miscarriage: a systematic review and meta-analysisBMJ Open 2024;14:e074600. doi: 10.1136/bmjopen-2023-074600
+> Smith S[^*], Martin FZ[^*], Rai D, Forbes H. Association between antidepressant use during pregnancy and miscarriage: a systematic review and meta-analysisBMJ Open 2024;14:e074600. doi: 10.1136/bmjopen-2023-074600
 
 **Background** Literature surrounding the association between antidepressant use during pregnancy and miscarriage is conflicting. We aimed to conduct a systematic review and meta-analysis of studies among pregnant women regarding the association between exposure to antidepressants during pregnancy and the risk of miscarriage, compared with pregnant women not exposed to antidepressants.
 
@@ -22,7 +22,7 @@ https://bmjopen.bmj.com/content/14/1/e074600
 
 # Antidepressant use during pregnancy and stillbirth: a systematic review and meta-analysis
 
-> Martin FZ, Smith S, Rai D, Forbes H. Antidepressant use during pregnancy and risk of stillbirth: a systematic review and meta-analysis. Reproductive, Female and Child Health. 2023; 2: 177-187. doi:10.1002/rfc2.38
+> Martin FZ[^*], Smith S[^*]: My reference., Rai D, Forbes H. Antidepressant use during pregnancy and risk of stillbirth: a systematic review and meta-analysis. Reproductive, Female and Child Health. 2023; 2: 177-187. doi:10.1002/rfc2.38
 
 **Introduction** To evaluate the current evidence estimating the association between antidepressant use during pregnancy and stillbirth.
 
@@ -37,3 +37,5 @@ https://bmjopen.bmj.com/content/14/1/e074600
 **Conclusions** Although the overall meta-analysis found a small association between antidepressant use during pregnancy and stillbirth, this result was likely due to the overall low quality of studies included and by confounding in the underlying studies. Future studies must adequately address potential confounding by indication.
 
 https://onlinelibrary.wiley.com/doi/10.1002/rfc2.38
+
+[^*]: Joint first authors.
